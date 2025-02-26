@@ -70,12 +70,10 @@ body{
 
     .mod{
         display: flex;
-        
-
     }
 
     body{
-        height: auto;
+        height: 100%;
     }
 
     .header-title{
