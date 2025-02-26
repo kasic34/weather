@@ -1,0 +1,8 @@
+/* base */
+@import "./base/base.css";
+@import "./base/reset.css";
+
+/* blocks */
+@import "./blocks/card.css";
+@import "./blocks/header.css";
+@import "./blocks/mod.css";

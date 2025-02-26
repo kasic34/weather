@@ -1,0 +1,60 @@
+.card-img-mod{
+    width: 199px;
+    height: 158px;
+
+    margin-bottom: 30px;
+}
+
+.card-temp-mod{
+    font-weight: 400;
+    font-size: 48px;
+    color: #000;
+}
+
+.card-feels-mod{
+    font-weight: 400;
+    font-size: 20px;
+    color: #000;
+    display: flex;
+    align-items: center;
+    height: 24px;
+
+    margin-bottom: 10px;
+}
+
+.card-feels-temp-mod{
+    font-weight: 400;
+    font-size: 18px;
+    color: #000;
+    height: 18px;
+    margin-left: 5px;
+}
+
+.card-weather-mod{
+    font-weight: 400;
+    font-size: 30px;
+    color: #000;
+
+    margin-bottom: 15px;
+}
+
+.card-city-mod{
+    font-weight: 400;
+    font-size: 30px;
+    color: #000;
+}
+
+.card-BR-mod{
+    margin-bottom: 40px;
+}
+
+.card-BR-mod p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    background: #005ed1;
+    border-radius: 5px;
+
+    padding: 0 5px;
+}
+

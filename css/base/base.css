@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+   color: #ffffff;
+   font-family: 'Roboto', serif;
+   font-weight: 300;
+}
+
+a {
+    color: #FAFAF5;
+    text-decoration: underline;
+} 
+
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
